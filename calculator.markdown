@@ -13,7 +13,7 @@ class="username">Graphing Calculator</span></a></li> -->
 <p align="left" style="margin-left: 15%; margin-right:15%">
 
 In high school, one of my first larger coding projects was a simple graphing calculator that I wrote 
-in Java using Swing.
+in Java using Swing. You may find the source code <a href="https://github.com/maciejwlodek/Graphing-calculator">here</a>.
 
 <!--- <a href="" target="_blank"><img src="/assets/images/graphing-calculator.PNG" /></a> --->
 
@@ -23,7 +23,7 @@ standard
 arithmetic operations $(+,-,\cdot,/,\hat{})$, as well as the following special functions:
 $ \sin, \cos, \tan, \arcsin, \arccos, \arctan, \ln, \log, \sqrt{x}, | x |, \lfloor x \rfloor, \lceil x 
 \rceil, \Gamma(x),$ and $ e^x $
-(where $\Gamma(x)$ is the gamma function, defined by $\Gamma(x) = \int_{0}^{\infty} 
+(where $\Gamma(x)$ is the <a href="https://en.wikipedia.org/wiki/Gamma_function">gamma function</a>, defined by $\Gamma(x) = \int_{0}^{\infty} 
 t^{x-1}e^{-t}dt$.)
 
 In addition, it supported graphing the derivative of an inputted function. 
@@ -43,7 +43,7 @@ This is third order Fourier series approximation of the square wave:
 
 <img src="/assets/images/graph2.PNG" />
 
-This is the derivative of $\ln(\Gamma(x))$, otherwise known as the digamma function:
+This is the derivative of $\ln(\Gamma(x))$, otherwise known as the <a href="https://en.wikipedia.org/wiki/Digamma_function">digamma function</a>:
 
 <img src="/assets/images/graph3.PNG" />
 

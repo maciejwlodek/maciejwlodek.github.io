@@ -1,9 +1,10 @@
-I"¡<p align="left" style="margin-left: 15%; margin-right: 15%">
+I" <p align="left" style="margin-left: 15%; margin-right: 15%">
 
 During the Spring 2019 semester, I was taking AMS 301 among other courses. That class included graph theory, and since I use $\LaTeX$ to type up all of my homeworks, I needed to be able to draw 
 graphs in $\LaTeX$. This meant I either had to use the Tikz/PGF package or draw everything by hand and scan the images. Obviously, the former is much neater, but it proved very tedious, especially for 
 more complex graphs when the default positioning schema used in Tikz proved insufficient to my needs and I had to provide more precise 
-locations of nodes and edges. For this reason, I created TikzTool, a program that allows one to draw graphs and automatically export them to Tikz/PGF code that may be used in $\LaTeX$. 
+locations of nodes and edges. For this reason, I created <a href="https://github.com/maciejwlodek/tikz-pgf-tool">TikzTool</a>, a program that allows one to draw graphs and automatically export 
+them to Tikz/PGF code that may be used in $\LaTeX$. 
 
 The user simply places down nodes in the desired positions and draw edges between pairs of nodes (the edges may be directed or undirected). The color, size, stroke width, etc. of each node and each edge 
 may be customized. In addition, nodes may be given labels, and these labels may be positioned as needed. 
@@ -23,7 +24,6 @@ cubic Bezier curve, and allowing the user to move the control nodes for each edg
 
 <p align="left" style="margin-left: 15%; margin-right: 15%">
 
-I also included functionality for saving and loading graphs. 
 
 After the graph is input, the user may generate Tikz code for use in LaTeX. For example, the following is the generated Tikz 
 for the above graph. 
