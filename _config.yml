@@ -1,16 +1,16 @@
 # Site settings
-title: Mauricio Urraco
+title: Maciej Wlodek
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT.. I'm one of the two guys behind all the JS related stuff. Visit my blog here":" <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Maciej Wlodek
+user_description: This is the personal webpage for Maciej Wlodek. I graduated from Longwood High School in the class of '17. Currently, I am studying Mathematics and Computer Science at Stony Brook University for my third year. I am a member of the SBU Math and Chess clubs, and occasionally, I attend meetings of the Go (Baduk) club. When I graduate, I plan to either continue my education by way of attending a graduate school for mathematics, or alternatively pursue a career as a software developer.
+user_title: Third Year Student in CS and Math
+email: maciej.wlodek@stonybrook.edu
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  maciejwlodek
 # gplus_username:  lorem_ipsum
 
 # Google-analytics

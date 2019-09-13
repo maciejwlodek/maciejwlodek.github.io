@@ -1,0 +1,41 @@
+I"Ï<!-- <li><a href="https://github.com/maciejwlodek/Graphing-calculator"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span 
+class="username">Graphing Calculator</span></a></li> -->
+
+<p align="left" style="margin-left: 15%; margin-right:15%">
+
+In high school, one of my first larger coding projects was a simple graphing calculator that I wrote 
+in Java using Swing.
+
+<!--- <a href="" target="_blank"><img src="/assets/images/graphing-calculator.PNG" /></a> --->
+
+It supported 
+the five 
+standard 
+arithmetic operations $(+,-,\cdot,/,\hat{})$, as well as the following special functions:
+$ \sin, \cos, \tan, \arcsin, \arccos, \arctan, \ln, \log, \sqrt{x}, | x |, \lfloor x \rfloor, \lceil x 
+\rceil, \Gamma(x),$ and $ e^x $
+(where $\Gamma(x)$ is the gamma function, defined by $\Gamma(x) = \int_{0}^{\infty} 
+t^{x-1}e^{-t}dt$.)
+
+In addition, it supported graphing the derivative of an inputted function. 
+
+Besides graphing, it also had the capability of computing infix or postfix expressions involving the 
+above operations and functions.
+
+Here are a few sample graphs.
+
+This is the graph of $\sin(x^2)\cdot \cos(x^3)$:
+
+</p>
+
+<p><img src="/assets/images/graph1.PNG" /></p>
+
+<p>This is third order Fourier series approximation of the square wave:</p>
+
+<p><img src="/assets/images/graph2.PNG" /></p>
+
+<p>This is the derivative of $\ln(\Gamma(x))$, otherwise known as the digamma function:</p>
+
+<p><img src="/assets/images/graph3.PNG" /></p>
+
+:ET
